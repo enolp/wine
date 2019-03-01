@@ -44,6 +44,8 @@
 #include "nls/arh.nls"   /* 0x3c01  LANG_ARABIC, SUBLANG_ARABIC_BAHRAIN */
 #include "nls/arq.nls"   /* 0x4001  LANG_ARABIC, SUBLANG_ARABIC_QATAR */
 
+#include "nls/ast.nls"   /* 0x1000  LANG_ASTURIAN, SUBLANG_DEFAULT */
+
 #include "nls/bgr.nls"   /* 0x0402  LANG_BULGARIAN, SUBLANG_DEFAULT */
 
 #include "nls/cat.nls"   /* 0x0403  LANG_CATALAN, SUBLANG_DEFAULT */

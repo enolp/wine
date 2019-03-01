@@ -44,6 +44,7 @@
 #define LANG_ARABIC         0x01
 #define LANG_ARMENIAN       0x2b
 #define LANG_ASSAMESE       0x4d
+#define LANG_ASTURIAN       0x1000
 #define LANG_AZERBAIJANI    0x2c
 #define LANG_AZERI          LANG_AZERBAIJANI
 #define LANG_BANGLA         0x45
